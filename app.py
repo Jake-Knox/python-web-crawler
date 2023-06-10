@@ -1,9 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
+# pip install requests 
+# pip install beautifulsoup4 
 
 # In this file:
 # trying to extract film data from letterboxd.com
-# result:
+# result...
 # letterboxd page content is generated dynamically
 # on to other methods
 
